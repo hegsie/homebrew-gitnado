@@ -1,8 +1,8 @@
 # Rendered by .github/workflows/publish-packages.yml on each release and
 # pushed to the hegsie/homebrew-gitnado tap as Casks/gitnado.rb.
 cask "gitnado" do
-  version "0.9.0"
-  sha256 "932a0989ae15576d6aef25ace83d9818893781e1d182d1b77854775c42d021f5"
+  version "0.9.1"
+  sha256 "d4a0c2e3d1cf2e32cc067028b5992082e187a69ac6eee3d926605cd7c850a43b"
 
   url "https://github.com/hegsie/gitnado/releases/download/v#{version}/Gitnado_#{version}_aarch64.dmg"
   name "Gitnado"
